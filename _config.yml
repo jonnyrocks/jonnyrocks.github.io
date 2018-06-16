@@ -24,7 +24,7 @@ github_username:  jonnyrocks
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 

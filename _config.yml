@@ -24,7 +24,7 @@ github_username:  jonnyrocks
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: modernist
 plugins:
   - jekyll-feed
 
